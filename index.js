@@ -1,7 +1,4 @@
 import React from 'React'
-//sss
-////測試測試
+import second from 'first'
+import Text from 'React'
 
-<text>xxxxxx</text>
-<Text>xxxx</Text>
-<bottom></bottom>
