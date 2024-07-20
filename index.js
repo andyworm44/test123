@@ -4,3 +4,4 @@ import React from 'React'
 
 <text>xxxxxx</text>
 <Text>xxxx</Text>
+<bottom></bottom>
